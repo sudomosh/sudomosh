@@ -1,8 +1,8 @@
-<h1 align="center">Hello World 👋, I'm sudomosh</h1>
+<h1 align="center">I'm Musharraf aka sudomosh</h1>
 <div align="center"> <img src ="https://github.com/sudomosh/sudomosh/blob/main/1680626578028.jpeg"> </div>
-<h2 align="center">Embarking on a Cybersecurity Odyssey</h2>
 
-<h3 align="center">Pythonista | CTF Player |  CS student</h3>
+
+
 
 
 <table  align="center" ><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudomosh&layout=compact&theme=dark&show_icons=true"/></td><td><img src="http://github-readme-streak-stats.herokuapp.com?user=sudomosh&theme=dark"/></td></tr></table>
