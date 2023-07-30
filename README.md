@@ -1,10 +1,10 @@
 <h1 align="center">Hello World 👋, I'm sudomosh</h1>
-<h2 align="center">Embarking on a Cybersecurity Odyssey: Aspiring to Safeguard the Digital Frontier </h2>
+<h2 align="center">Embarking on a Cybersecurity Odyssey</h2>
 
 <h3 align="center">Pythonista | CTF Player |  CS student</h3>
 
 
-<table><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudomosh&layout=compact&theme=dark&show_icons=true"/></td><td><img src="http://github-readme-streak-stats.herokuapp.com?user=sudomosh&theme=dark"/></td></tr></table>
+<table  align="center" ><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudomosh&layout=compact&theme=dark&show_icons=true"/></td><td><img src="http://github-readme-streak-stats.herokuapp.com?user=sudomosh&theme=dark"/></td></tr></table>
 
 <h1 align = "center"><img src="https://tryhackme-badges.s3.amazonaws.com/sudomosh.png" alt="TryHackMe"></h1>
 
