@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I'm sudomosh</h1>
-<div align="center" <img src ="https://media.licdn.com/dms/image/D5616AQHKwEOoAFenng/profile-displaybackgroundimage-shrink_350_1400/0/1680626578028?e=1696464000&v=beta&t=da956ghXOMqNSmarTWlltn-y1uvIjkU7AU7Opdlk0l4"></div>
+<div align="center" <img src ="[https://media.licdn.com/dms/image/D5616AQHKwEOoAFenng/profile-displaybackgroundimage-shrink_350_1400/0/1680626578028?e=1696464000&v=beta&t=da956ghXOMqNSmarTWlltn-y1uvIjkU7AU7Opdlk0l4](https://github.com/sudomosh/sudomosh/blob/main/1680626578028.jpeg)"></div>
 <h2 align="center">Embarking on a Cybersecurity Odyssey</h2>
 
 <h3 align="center">Pythonista | CTF Player |  CS student</h3>
