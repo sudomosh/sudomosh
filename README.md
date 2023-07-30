@@ -16,7 +16,7 @@
 
               
 
-<div align="center"><h3>TryHackMe Badges</h3>
+<div align="center"><h3 font-family: 'Courier New', monospace;>TryHackMe Badges</h3>
 <img src="https://tryhackme.com/img/badges/streak30.svg"  height="200" width="100">
 <img src="https://tryhackme.com/img/badges/wireshark.svg"  height="200" width="100">
 <img src="https://tryhackme.com/img/badges/adventofcyber4.svg" height="200" width="100">
