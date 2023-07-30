@@ -1,4 +1,4 @@
-<h1 align="center">I'm Musharraf aka sudomosh</h1>
+<h1 align="center">I'm sudomosh</h1>
 <div align="center"> <img src ="https://github.com/sudomosh/sudomosh/blob/main/1680626578028.jpeg"> </div>
 <h3 align="center">Embarking on a Cybersecurity Odyssey</h3>
 
