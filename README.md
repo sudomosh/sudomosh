@@ -19,8 +19,8 @@
 <div align="center"><h3>TryHackMe Badges</h3>
 <img src="https://tryhackme.com/img/badges/streak30.svg"  height="200" width="100">
 <img src="https://tryhackme.com/img/badges/wireshark.svg"  height="200" width="100">
-<img src="https://tryhackme.com/img/badges/wireshark.svg" height="200" width="100">
-<img src="https://tryhackme.com/img/badges/wireshark.svg" height="200" width="100">
+<img src="https://tryhackme.com/img/badges/adventofcyber4.svg" height="200" width="100">
+<img src="https://tryhackme.com/img/badges/hashcracker.svg" height="200" width="100">
 
 </div>
 <h3 align="center">Connect with me:</h3>
