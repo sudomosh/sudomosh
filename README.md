@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I'm sudomosh</h1>
-<div align="center" <img src ="https://github.com/sudomosh/sudomosh/blob/main/1680626578028.jpeg"></div>
+<div align="center"> <img src ="https://github.com/sudomosh/sudomosh/blob/main/1680626578028.jpeg"> </div>
 <h2 align="center">Embarking on a Cybersecurity Odyssey</h2>
 
 <h3 align="center">Pythonista | CTF Player |  CS student</h3>
