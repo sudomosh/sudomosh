@@ -1,4 +1,8 @@
-## Hello World ✨ This is md musharraf aka sudomosh
+<h1 align="center">Hello World 👋, I'm sudomosh</h1>
+<h3 align="center">Embarking on a Cybersecurity Odyssey: Aspiring to Safeguard the Digital Frontier </h3>
+
+
+## Hello World 
 **Pythonista | CTF Player |  CS student**
 
 
